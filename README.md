@@ -22,4 +22,4 @@ Supervised Techniques used:
 - K-Nearest Neighbors
 - CART Models
 
-
+In the final report I have provided two business insights and one actionable insight for the company, based on its customers' behaviour. Reasoning my decision with graphs and values derived from OLS regression.
